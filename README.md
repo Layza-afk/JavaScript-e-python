@@ -1,5 +1,5 @@
 # Formulario
- Um pequeno formulario de login, nele pede
+ Um pequeno formulario de cadastro, nele pede Nome, Senha, E-mail e um numero de celular.
 
 Linguagens:
 - HTML5
